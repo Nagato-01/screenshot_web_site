@@ -98,36 +98,4 @@ Les pages récupérées et leurs ressources seront enregistrées dans le dossier
 
 ---
 
-## Contribuer
 
-1. Clonez le dépôt :
-   ```bash
-   git clone https://github.com/Nagato-01/screenshot_web_site.git
-   cd bulk-screenshot-capture
-   ```
-
-2. Créez une branche pour vos modifications :
-   ```bash
-   git checkout -b feature/nom-de-la-feature
-   ```
-
-3. Ajoutez vos modifications :
-   ```bash
-   git add .
-   git commit -m "Ajout d'une nouvelle fonctionnalité"
-   git push origin feature/nom-de-la-feature
-   ```
-
-4. Ouvrez une Pull Request sur GitHub.
-
----
-
-## Auteurs
-
-- **Nagato-01** - Créateur et mainteneur du projet.
-
----
-
-## Licence
-
-Ce projet est sous licence MIT - voir le fichier [LICENSE](LICENSE) pour plus de détails.
