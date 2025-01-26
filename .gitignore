@@ -1,0 +1,26 @@
+# Ignorer les captures d'écran
+screenshots/*.png
+
+# Fichiers CSV générés
+crawl-*-errors.csv
+
+# Pages téléchargées
+scraped_pages/*
+!scraped_pages/.gitkeep
+
+# Dossier d'environnement
+env/*
+!env/.gitkeep
+
+# Fichiers temporaires et journaux
+*.log
+*.tmp
+*.bak
+*.swp
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Variables d'environnement
+.env
